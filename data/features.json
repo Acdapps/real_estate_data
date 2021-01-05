@@ -1,30 +1,37 @@
 {
     "features": [
         {
+            "id": 0,
             "icon": "59437",
             "name": "Laundry"
         },
         {
+            "id": 1,
             "icon": "58652",
             "name": "Wifi"
         },
         {
+            "id": 2,
             "icon": "58712",
             "name": "Air conditioner"
         },
         {
+            "id": 3,
             "icon": "59383",
             "name": "Refrigerator"
         },
         {
+            "id": 4,
             "icon": "59600",
             "name": "Washer"
         },
         {
+            "id": 5,
             "icon": "59714",
             "name": "Swimming Pool"
         },
         {
+            "id": 6,
             "icon": "60062",
             "name": "Tv Cable"
         }

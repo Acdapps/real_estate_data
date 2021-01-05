@@ -1,0 +1,436 @@
+{
+    "properties": [
+        {
+            "id": "1ap",
+            "description": "Gold apartment, located in the center of Paris, comfortable, cozy, beautiful. It has 5 bedrooms, 5 bathrooms and 1 garage. It covers an area of 450 square meters. It was built in 2010.",
+            "title": "Gold Aparment",
+            "address": "87 rue Nationale",
+            "state": "Paris",
+            "code_zip": "75005",
+            "city": "Paris",
+            "country": "FR",
+            "agent_id": "1",
+            "image": "apartment1.jpeg",
+            "area_size": "450",
+            "size_prefix": "sq ft",
+            "bedrooms": 5,
+            "bathrooms": 5,
+            "garages": 1,
+            "currency": "USD",
+            "price": 450,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "apartment",
+            "year_built": "2010",
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "id": "2ap",
+            "description": "Rosa Residency Apartment, located on Comandante Izarduy Street, nice, cozy and wonderful. It has 3 bedrooms and 2 bathrooms. It covers an area of 300 square meters. It was built in 2014.",
+            "title": "Rosa Residency",
+            "address": "Comandante Izarduy 44",
+            "state": "Barcelona",
+            "code_zip": "75005",
+            "city": "Viladecans",
+            "country": "ES",
+            "agent_id": "2",
+            "image": "apartment2.jpeg",
+            "area_size": "300",
+            "size_prefix": "sq ft",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "garages": 0,
+            "currency": "USD",
+            "price": 370,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "apartment",
+            "year_built": 2014,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "id": "3ap",
+            "description": "Fall Residency apartment, located in central London, comfortable, cozy, beautiful. It has 4 bedrooms and 3 bathrooms. Covers an area of 360 square meters. It was built in 2015.",
+            "title": "Fall Residency",
+            "address": "44 Crown Street",
+            "state": "London",
+            "code_zip": "W89NA",
+            "city": "London",
+            "country": "UK",
+            "agent_id": "3",
+            "image": "apartment3.jpeg",
+            "area_size": "360",
+            "size_prefix": "sq ft",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "garages": 0,
+            "currency": "USD",
+            "price": 670,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "apartment",
+            "year_built": 2015,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "id": "4ap",
+            "description": "Spring Residency apartment, located in the city of Los Angeles, comfortable, cozy, perfect. It has 3 bedrooms and 3 bathrooms. It covers an area of 510 square meters. It was built in 2011.",
+            "title": "Spring Residency",
+            "address": "577 Meadowbrook Mall Road",
+            "state": "California",
+            "code_zip": "W89NA",
+            "city": "Los Angeles",
+            "country": "US",
+            "agent_id": "4",
+            "image": "apartment4.jpeg",
+            "area_size": "510",
+            "size_prefix": "sq ft",
+            "bedrooms": 3,
+            "bathrooms": 3,
+            "garages": 0,
+            "currency": "USD",
+            "price": 120000,
+            "priceLabel": "",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "sale",
+            "propertyType": "apartment",
+            "year_built": 2011,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "id": "1h",
+            "description": "Madeleine house, located in the center of Paris, perfect, cozy, beautiful. It has 6 bedrooms, 4 bathrooms and 2 garages. It covers an area of 540 square meters. It was built in the year 2000.",
+            "title": "Madeleine House",
+            "address": "56 rue La Boétie",
+            "state": "Paris",
+            "code_zip": "75015",
+            "city": "Paris",
+            "country": "FR",
+            "agent_id": "1",
+            "image": "house1.jpg",
+            "area_size": "540",
+            "size_prefix": "sq ft",
+            "bedrooms": 6,
+            "bathrooms": 4,
+            "garages": 2,
+            "currency": "USD",
+            "price": 80000,
+            "priceLabel": "",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "sale",
+            "propertyType": "house",
+            "year_built": 2000,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "id": "2h",
+            "description": "Alhueche House, located in the city of Piera, Barcelona. Perfect, cozy, beautiful for the family. It has 5 bedrooms, 4 bathrooms and 1 garage. It covers an area of 700 square meters. It was built in 2009.",
+            "title": "Alhueche House",
+            "address": "Comandante Izarduy 54",
+            "state": "Barcelona",
+            "code_zip": "08784",
+            "city": "Piera",
+            "country": "ES",
+            "agent_id": "2",
+            "image": "house2.jpeg",
+            "area_size": "700",
+            "size_prefix": "sq ft",
+            "bedrooms": 5,
+            "bathrooms": 4,
+            "garages": 1,
+            "currency": "USD",
+            "price": 75000,
+            "priceLabel": "",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "sale",
+            "propertyType": "house",
+            "year_built": 2009,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "id": "3h",
+            "description": "Melissa House, located in the city of Awbridge, London. Perfect, cozy, beautiful for the family. It has 4 bedrooms, 4 bathrooms and 2 garages. It covers an area of 620 square meters. It was built in 2013.",
+            "title": "Melissa House",
+            "address": "49 Leicester Road",
+            "state": "London",
+            "code_zip": "SO519XW",
+            "city": "Awbridge",
+            "country": "UK",
+            "agent_id": "3",
+            "image": "house3.jpeg",
+            "area_size": "620",
+            "size_prefix": "sq ft",
+            "bedrooms": 4,
+            "bathrooms": 4,
+            "garages": 2,
+            "currency": "USD",
+            "price": 1300,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "house",
+            "year_built": 2013,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "id": "4h",
+            "description": "Arthur House, located in the city of Patchogue, New York. Perfect, cozy, beautiful for the family. It has 4 bedrooms and 3 bathrooms. It covers an area of 630 square meters. It was built in 2010.",
+            "title": "Arthur House",
+            "address": "129 Abia Martin Drive",
+            "state": "New York",
+            "code_zip": "11772",
+            "city": "Patchogue",
+            "country": "US",
+            "agent_id": "4",
+            "image": "house4.jpeg",
+            "area_size": "630",
+            "size_prefix": "sq ft",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "garages": 0,
+            "currency": "USD",
+            "price": 25000,
+            "priceLabel": "",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "sale",
+            "propertyType": "house",
+            "year_built": 2010,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 0
+                },
+                {
+                    "id": 1
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "id": "1o",
+            "description": "Vadeboncoeur office, located in the city of Paris. Perfect, comfortable for meetings and work. It covers an area of 240 square meters. It was built in 2018.",
+            "title": "Vadeboncoeur Office",
+            "address": "56 rue La Boétie",
+            "state": "Paris",
+            "code_zip": "75015",
+            "city": "Paris",
+            "country": "FR",
+            "agent_id": "6",
+            "image": "office1.jpeg",
+            "area_size": "240",
+            "size_prefix": "sq ft",
+            "bedrooms": 0,
+            "bathrooms": 0,
+            "garages": 0,
+            "currency": "USD",
+            "price": 300,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "office",
+            "year_built": 2018,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "id": "2o",
+            "description": "Granado Office, located in the city of La Cabrera, Madrid. Perfect, cozy, for work tasks. It covers an area of 280 square meters. It was built in 2017.",
+            "title": "Granado Office",
+            "address": "Eras 47",
+            "state": "Madrid",
+            "code_zip": "28751",
+            "city": "La Cabrera",
+            "country": "ES",
+            "agent_id": "7",
+            "image": "office2.jpeg",
+            "area_size": "280",
+            "size_prefix": "sq ft",
+            "bedrooms": 0,
+            "bathrooms": 0,
+            "garages": 0,
+            "currency": "USD",
+            "price": 250,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "office",
+            "year_built": 2017,
+            "video_url": "",
+            "features": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "id": "3o",
+            "description":
+                "Loana Office, located in the city of Quijorna, Madrid. Perfect, comfortable for meetings and work. It covers an area of 310 square meters. It was built in 2019.",
+            "title": "Loana Office",
+            "address": "Avda. de la Estación 99",
+            "state": "Madrid",
+            "code_zip": "28693",
+            "city": "Quijorna",
+            "country": "ES",
+            "agent_id": "7",
+            "image": "office3.jpg",
+            "area_size": "290",
+            "size_prefix": "sq ft",
+            "bedrooms": 0,
+            "bathrooms": 0,
+            "garages": 0,
+            "currency": "USD",
+            "price": 310,
+            "priceLabel": "/month",
+            "latitude": "",
+            "longitude": "",
+            "propertyStatus": "rent",
+            "propertyType": "office",
+            "year_built": 2019,
+            "video_url": "",
+            "features": [
+              {"id":1}, {"id":2}
+            ] 
+        }
+        
+
+    ]
+}

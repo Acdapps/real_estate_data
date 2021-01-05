@@ -1,0 +1,32 @@
+{
+    "features": [
+        {
+            "icon": "59437",
+            "name": "Laundry"
+        },
+        {
+            "icon": "58652",
+            "name": "Wifi"
+        },
+        {
+            "icon": "58712",
+            "name": "Air conditioner"
+        },
+        {
+            "icon": "59383",
+            "name": "Refrigerator"
+        },
+        {
+            "icon": "59600",
+            "name": "Washer"
+        },
+        {
+            "icon": "59714",
+            "name": "Swimming Pool"
+        },
+        {
+            "icon": "60062",
+            "name": "Tv Cable"
+        }
+    ]
+}

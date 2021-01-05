@@ -1,0 +1,28 @@
+{
+    "explore": [
+        {
+            "name": "Apartment",
+            "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/properties/apartment1.jpeg",
+            "type": "aparment",
+            "count": 120
+        },
+        {
+            "name": "House",
+            "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/properties/house1.jpg",
+            "type": "house",
+            "count": 41
+        },
+        {
+            "name": "Office",
+            "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/properties/office1.jpeg",
+            "type": "office",
+            "count": 86
+        },
+        {
+            "name": "Villa",
+            "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/properties/villa1.jpeg",
+            "type": "villa",
+            "count": 62
+        }
+    ]
+}

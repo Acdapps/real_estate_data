@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "appName": "Real Estate App",
+            "aboutTitle": "Real Estate Company",
+            "aboutSubtitle": "Best company to rent or buy a property",
+            "aboutDescription": [
+                "Our company specializes in the sale and rental of houses, offices, ",
+                "apartments and villas in different regions of the world. ",
+                "We are pioneers in the real estate market. ",
+                "Our agents are extensively trained to offer you the ",
+                "residence you need for you and your family."
+            ],
+            "address": {
+                "street": "77 Crown Street",
+                "city": "London",
+                "country": "UK",
+                "zip": "W8 9NA"
+            }
+        }
+    ]
+}

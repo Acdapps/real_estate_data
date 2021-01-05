@@ -1,0 +1,146 @@
+{
+    "agents": [
+        {
+            "id": "1",
+            "name": "Ellen",
+            "lastname": "Grubert",
+            "phone": "987-654-311",
+            "email": "ellengrubert@gmail.com",
+            "points": 4.5,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent1.jpeg",
+            "description": [
+                "Originally from N.Y, Ellen moved to Boston to earn a graduate degree in business at Emerson College.",
+                "This knowledge, coupled with her under-graduate degree in psychology and teaching,",
+                "has provided her with valuable skills that she uses daily in real ",
+                "estate negotiations, educating home buyers and sellers, and effectively ",
+                "marketing the team’s listings. Ellen has been working in Boston real estate ",
+                "for over 30 years and is an ABR and a Senior Real Estate Specialist. Ellen’s clients often describe her as detail-oriented, proactive, and fun to be around. ",
+                "She enjoys spending time on the Cape, riding her bike, and traveling."
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Brendan I",
+            "lastname": "Bartic",
+            "phone": "987-654-312",
+            "email": "jondoe@gmail.com",
+            "points": 4.0,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent2.jpeg",
+            "description": [
+                "As a Colorado native and a seasoned real estate professional, ",
+                "I recognize and value the trust my clients place in me, and ",
+                "I strive every day to exceed their expectations. ",
+                "I have been a leading top producer for over 18 years. ",
+                "My sales consistently rank in the top 1% of all Keller Williams Teams."
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Phil",
+            "lastname": "Gutowski",
+            "phone": "987-654-313",
+            "email": "philgutowski@gmail.com",
+            "points": 3.5,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent3.jpeg",
+            "description": [
+                "Phil Gutowski does a great job listing his business strengths ",
+                "and also where his free time is thoughtfully used. This shows his commitment ",
+                "to a local community and leaves the buyer with a positive picture of Gutowski’s ",
+                "personality. Gutowski’s photo is welcoming and makes you feel",
+                " he’s ready to show you your new home and talk you through the process."
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Jennifer",
+            "lastname": "Grandjean",
+            "phone": "987-654-314",
+            "email": "jennifergrandjean@gmail.com",
+            "points": 4.8,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent4.jpeg",
+            "description": [
+                "Representing N.O and Southwest Washington buyers and sellers, Jennifer’s enthusiastic, can-do attitude and caring nature is ideal for ",
+                "identifying each client’s desires and skillfully guiding them to fulfill their ",
+                "real estate goals. Raised in the Pacific Northwest, Jennifer understands and ",
+                "appreciates the many unique benefits of life in the Willamette Valley with its ",
+                "unmatched beauty, culture, and amazing restaurants! Jennifer has knowledge in ",
+                "all aspects of the real estate process with her start in the administrative field and then on to Operations, ",
+                "preceding her success in selling real estate."
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Rene",
+            "lastname": "Rodriguez",
+            "phone": "987-654-315",
+            "email": "renerdguez@gmail.com",
+            "points": 4.75,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent5.jpg",
+            "description": [
+                "Rene Rodriguez is one of Boston's most trusted on top selling brokers, ",
+                "counting amoung his clients numerous distinguished business and community leaders. ",
+                "A member of the Cabor residential team since 1996. Rene works with individuals, investors,",
+                " and developers interested in the city's most coverted properties with a particular ",
+                "focus on the Black Bay, Beacon Hill, and South End neighborhoods."
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Shannon",
+            "lastname": "McNulty",
+            "phone": "987-654-316",
+            "email": "shannonmcnulty@gmail.com",
+            "points": 4.1,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent6.jpg",
+            "description": [
+                "Shannon McNulty has been passionate about real estatesince her earliest years growing up in Halifax, Nova Scotia. ",
+                "Shannon always knew that she wanted to chart a path helping others",
+                " and found her true calling in real estate serving her clients and",
+                "guiding them through one of the biggest investments of their lives."
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Tom",
+            "lastname": "Daves",
+            "phone": "987-654-317",
+            "email": "tomdaves@gmail.com",
+            "points": 4.0,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent7.jpg",
+            "description": [
+                "Tom is a great example of an agent who wants to give a fully rounded picture of his character. He shares his real estate background, as well as his personal life. ",
+                "And his challenging ski treks show us that he’s not afraid of an obstacle or two."
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Terronald",
+            "lastname": "Logan",
+            "phone": "987-654-318",
+            "email": "terronaldlogan@gmail.com",
+            "points": 4.15,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent8.jpg",
+            "description": [
+                "We love how Terronald Logan’s profile is filled with life and energy.",
+                " He shares his passion with us through a story about his lifelong ability to sell — he started at the tender age of 11 with his parents’ home! If you are short on space and still want to entice great customers for leads, we think you should check out Logan’s page."
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Elizabeth",
+            "lastname": "Bain",
+            "phone": "987-654-319",
+            "email": "elibain@gmail.com",
+            "points": 4.9,
+            "image": "https://github.com/Acdapps/real_estate_data/blob/main/img/agents/agent9.jpg",
+            "description": [
+                "Elizabeth has been passionate about Real Estate her entire life. ",
+                "As a child, she would tour invesment propierties and new construction developments ",
+                "with her dad. As an adult, she loves getting a feel for every home community she visits ",
+                "-she feels that each person and property has a story to tell. From 2013 - 2016, she worked ",
+                "as the manager of Homeownership Services at Urban Edge in Roxbury, where she managed a robust ",
+                "first-time homebuyer education program."
+            ]
+        }
+    ]
+}

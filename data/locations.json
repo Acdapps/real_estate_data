@@ -1,0 +1,22 @@
+{
+    "locations":[
+        {
+            "name": "Paris", "img": "paris.jpeg"
+        },
+        {
+            "name": "Barcelona", "img": "barcelona.jpeg"
+        },
+        {
+            "name": "Madrid", "img": "madrid.jpeg"
+        },
+        {
+            "name": "London", "img": "london.jpeg"
+        },
+        {
+            "name": "California", "img": "california.jpeg"
+        },
+        {
+            "name": "New York", "img": "newyork.jpeg"
+        }
+    ]
+}

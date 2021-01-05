@@ -1,22 +1,22 @@
 {
     "locations":[
         {
-            "name": "Paris", "img": "paris.jpeg"
+            "name": "Paris", "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/locations/paris.jpeg"
         },
         {
-            "name": "Barcelona", "img": "barcelona.jpeg"
+            "name": "Barcelona", "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/locations/barcelona.jpeg"
         },
         {
-            "name": "Madrid", "img": "madrid.jpeg"
+            "name": "Madrid", "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/locations/madrid.jpeg"
         },
         {
-            "name": "London", "img": "london.jpeg"
+            "name": "London", "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/locations/london.jpeg"
         },
         {
-            "name": "California", "img": "california.jpeg"
+            "name": "California", "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/locations/california.jpeg"
         },
         {
-            "name": "New York", "img": "newyork.jpeg"
+            "name": "New York", "img": "https://github.com/Acdapps/real_estate_data/blob/main/img/locations/newyork.jpeg"
         }
     ]
 }
